@@ -10,7 +10,7 @@
 
   - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-  - 🌱 I’m currently learning **TailwindCSS**
+  <!--- - 🌱 I’m currently learning **TailwindCSS** -->
   
   - 👯 I’m looking to collaborate on **any open-source project**
   
